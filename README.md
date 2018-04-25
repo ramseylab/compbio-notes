@@ -1,5 +1,5 @@
 # compbio-notes
-Stephen Ramsey's notes on bioinformatics and computational biology
+Stephen Ramsey's notes on bioinformatics, computational biology, and scientific computing
 
 # PubMed
 
