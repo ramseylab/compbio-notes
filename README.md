@@ -7,3 +7,12 @@ Stephen Ramsey's notes on bioinformatics and computational biology
 
     http://bc3.informatik.hu-berlin.de/
 
+
+# Emacs
+
+## Git push from emacs:
+
+In Emacs 24:
+
+    M-& git push origin master
+    
