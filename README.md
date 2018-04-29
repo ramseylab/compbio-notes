@@ -7,6 +7,12 @@ Stephen Ramsey's notes on bioinformatics, computational biology, and scientific 
 
     http://bc3.informatik.hu-berlin.de/
 
+# Ggplot2
+
+## Separately ordering plots in `facet_wrap` bar charts:
+
+See this R script:
+https://github.com/dgrtwo/drlib/blob/master/R/reorder_within.R
 
 # Emacs
 
