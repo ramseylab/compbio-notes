@@ -22,3 +22,10 @@ In Emacs 24:
 
     M-& git push origin master
     
+
+# LaTeX/BibTeX
+
+To get a BibTeX entry given an article's DOI: (From Daniel Himmelstein)
+
+    curl --location --header "Accept: application/x-bibtex" https://doi.org/10.7717/peerj.705
+    
